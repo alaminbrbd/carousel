@@ -1,3 +1,3 @@
 # carousel
 bootstrap_5.0_components_carousel
-url
+url: https://alaminbrbd.github.io/carousel/
